@@ -3,9 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Real-Time-Accelerometer-Data-Plot.iml" filepath="$PROJECT_DIR$/.idea/Real-Time-Accelerometer-Data-Plot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Real-Time-Accelerometer-Data-Plot-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Real-Time-Accelerometer-Data-Plot-app.iml" group="Real-Time-Accelerometer-Data-Plot/app" />
       <module fileurl="file://$PROJECT_DIR$/RealTimeAccelerometer.iml" filepath="$PROJECT_DIR$/RealTimeAccelerometer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knight33-Real-Time-Accelerometer-Data-Plot.iml" filepath="$PROJECT_DIR$/.idea/modules/knight33-Real-Time-Accelerometer-Data-Plot.iml" group="Real-Time-Accelerometer-Data-Plot" />
     </modules>
   </component>
 </project>
